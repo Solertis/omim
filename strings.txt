@@ -31426,7 +31426,7 @@ fa = دوباره نپرس
     ru = Малый бизнес заслуживает внимания
 
   [whats_new_localbiz_message]
-    en = Family cafes, cozy hostels, unique stores – they are the special parts of our travels. We will optimize your page on the map free of charge so you will get noticed.
+    en = It is local cafes, cozy hostels and shopt that make our jorneys unforgetable. We will optimize your page in MAPS.ME to make it stand out.
     ru = Именно локальные кафе, хостелы и магазинчики делают путешествия незабываемыми. Мы бесплатно оптимизируем страницу вашего бизнеса в MAPS.ME, чтобы его заметили.
 
   [whats_new_order_button]
@@ -31489,7 +31489,7 @@ fa = دوباره نپرس
 
   [subtittle_opt_out]
     en = Tracking settings
-    ru = Настрокий сопровождения
+    ru = Настройки сопровождения
 
   [opt_out_flurry]
     en = Statistic
