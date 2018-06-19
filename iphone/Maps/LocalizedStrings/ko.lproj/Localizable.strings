@@ -2126,11 +2126,11 @@
 
 "sponsored_partner14_action" = "-";
 
-"sponsored_partner15_action" = "-";
+"sponsored_partner18_action" = "Lifehack";
 
-"sponsored_partner16_action" = "-";
+"sponsored_partner19_action" = "Lifehack";
 
-"sponsored_partner17_action" = "-";
+"sponsored_partner20_action" = "Lifehack";
 
 "whats_new_ugc_title" = "평점 및 리뷰";
 
@@ -2354,8 +2354,6 @@
 
 "author_name_by_prefix" = "by %s";
 
-"bookmarks_objects" = "objects";
-
 "subtittle_opt_out" = "Tracking settings";
 
 "opt_out_flurry" = "Statistic";
@@ -2381,3 +2379,21 @@
 "privacy_policy" = "Privacy policy";
 
 "terms_of_use" = "Terms of use";
+
+"backup_notification_failed" = "Backing up your bookmarks has been suspended. Log in to turn backup on.";
+
+"banner_megafon_banner_message" = "Say goodbye to internation roaming!";
+
+"banner_megafon_banner_button" = "Goodbye!";
+
+"button_layer_traffic" = "Traffic";
+
+"button_layer_subway" = "Subway";
+
+"layers_title" = "Map layers";
+
+"layers_message" = "Use map layers to display the traffic situation, underground map or other useful information";
+
+"button_layer_got_it" = "Got it";
+
+"subway_data_unavailable" = "Subway map is unavailable";
